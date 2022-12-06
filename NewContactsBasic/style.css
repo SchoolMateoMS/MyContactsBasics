@@ -1,0 +1,15 @@
+body {
+  width: 700px;
+  margin: auto;
+  padding: 20px;
+}
+
+#output {
+  margin-top: 60px;
+}
+
+#output div {
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 5px, 0;
+}
